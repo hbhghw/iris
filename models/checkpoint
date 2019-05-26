@@ -1,0 +1,2 @@
+model_checkpoint_path: "iris1000"
+all_model_checkpoint_paths: "iris1000"
